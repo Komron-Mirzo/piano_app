@@ -1,16 +1,7 @@
 # piano_app_black_white
 
-A new Flutter project.
+My sixth Project: Flutter Piano App Black and White
 
-## Getting Started
+## This is the outcome
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Piano App Gif 2](https://user-images.githubusercontent.com/74512232/163790166-fa26f9a0-3208-4971-9f18-2bd6977be318.gif)
